@@ -1,7 +1,6 @@
 package santander.dio.controle;
 
 import java.util.Scanner;
-import santander.dio.controle.ParametrosInvalidosException;
 
 
 public class Contador {
